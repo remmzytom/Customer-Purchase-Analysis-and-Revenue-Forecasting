@@ -7,11 +7,9 @@ As a data analyst working for a retail company, my objective is to uncover insig
 
 
 ## Introduction
-Retail businesses often generate significant amounts of transactional data, making it critical to extract actionable insights to enhance customer experiences and increase revenue. This use case focuses on analyzing customer purchase behaviors, identifying frequent itemsets using association rules, and forecasting revenue trends.
+Retail businesses generate a lot of transactional data, which needs efficient processing to uncover valuable insights and improve customer experience and revenue. In this project, Spark was used to handle the large dataset because of its ability to process data quickly and efficiently. Spark helped with tasks like filtering, grouping, and transforming data, making it ready for analysis.
 
-The dataset includes transactional data, such as transaction numbers, product categories, and revenue. Through step-by-step analysis, this use case will cover data preprocessing, revenue trend identification, and implementing predictive models to improve business decision-making.
-
-By combining statistical and machine learning techniques, this use case demonstrates an effective way to optimize operations in the retail domain.
+The focus of this project is to understand customer buying habits, find frequently purchased items, and predict future revenue trends using data like transactions, product details, and revenue. By combining data analysis, machine learning, and prediction techniques, this project provides a clear way to improve retail operations and make better business decisions.
 
 
 ## skill set
