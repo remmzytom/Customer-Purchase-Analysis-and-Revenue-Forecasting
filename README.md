@@ -1,4 +1,4 @@
-# Customer-Purchase-Analysis-and-Revenue-Forecasting
+# Customer-Purchase-Analysis-and-Revenue-Forecasting [project Link]()
 
 ### Pre-requisite Skills: Python, Data Wrangling, Pandas, ARIMA, Data Visualization, Machine Learning Basics, Time Series Analysis
 
@@ -118,13 +118,13 @@ This plot represents the residuals or random noise after the trend and seasonal 
 This project shows how data analytics can help businesses improve operations, sales, and customer satisfaction. Using tools like Spark for big data and ARIMA for forecasting gives valuable insights into inventory management, marketing strategies, and personalized recommendations. This project demonstrates how combining different analytics methods can solve real-world business problems effectively.
 
 ## references
-https://etda.libraries.psu.edu/catalog/23885rsr5259
+[libraries](https://etda.libraries.psu.edu/catalog/23885rsr5259)
 
-https://etda.libraries.psu.edu/files/final_submissions/24573
+[libraries](https://etda.libraries.psu.edu/files/final_submissions/24573)
 
 [2] Bosari, J. (2012, October 4). Real Costs of Choosing the Wrong Software Vendor. Forbes. https://www.forbes.com/sites/moneywisewomen/2012/10/04/real-costs-ofchoosing-the-wrong-software-vendor/?sh=4c29414b4997. [3] Schmidhuber, J. (2015). Deep learning in neural networks: An overview. Neural networks, 61, 85-117.
 
-[4] Ullah, M. I. (2020, August 23). Components of Time Series. Basic Statistics and Data Analysis. https://itfeature.com/time-series-analysis-and-forecasting/components-of-timeseries.
+[4] [Ullah, M. I. (2020, August 23). Components of Time Series. Basic Statistics and Data Analysis.](https://itfeature.com/time-series-analysis-and-forecasting/components-of-timeseries.)
 
 [5] Zhang, G. P. (2003). Time series forecasting using a hybrid ARIMA and neural network model. Neurocomputing, 50, 159-175.
 
