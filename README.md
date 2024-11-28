@@ -26,7 +26,7 @@ The focus of this project is to understand customer buying habits, find frequent
 - Domain Knowledge
 
 
-
+<br><br>
 
 ### Plot the sum of revenue on transaction_date in a line plot and find out any immediate pattern / insight?
 
@@ -49,8 +49,9 @@ Sunday Leads in Revenue: The graph clearly indicates that Sunday generates the m
 
 ## Identify the name of product (column productName_process) that contributes the highest revenue on ‘that workday’  and the name of product that has the highest sales volume (sum of the Quantity), on ‘that workday’.
 
+>> ![](images/5.png)
 
-
+<br><br>
 
 ##  top 5 products that contribute the highest revenues in general and top 5 products that have the highest sales volumes in general.
 
@@ -65,11 +66,16 @@ the top 5 products that made the most money. "Popcorn Holder" brought in the hig
 the top 5 products that were sold in the highest quantities. are "Popcorn Holder" sold the most, followed closely by "World War Gliders Assorted Designs" and "Jumbo Bag Red Retrospot". The other two products, "Assorted Colour Bird Ornament" and "Pack Of Retrospot Cake Cases", also had high sales, but not as much as the top three.
 
 ### Which country generates the highest revenue? Additionally, identify the month in that country that has the highest revenue
-![](images/5.png)
 
+>> highest revenue country is United Kingdom with total revenue of 49994032.0
+
+<br><br>
 
 Question 1.5
 ## . Determine the shopping frequency of customers to identify who shops most frequently  on customer level, . Also, find out what products  ‘this customer’ typically buys based on the Quantity of products purchased.
+
+>> The customer with the highest patronage is 12748 with 207 transactions.
+>> The product the customer is spending the most on is Victorian Metal Postcard Spring with a total quantity of 595 units.
 
 <br><br>
 
