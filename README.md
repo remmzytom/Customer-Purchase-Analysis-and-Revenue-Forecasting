@@ -72,8 +72,8 @@ the top 5 products that were sold in the highest quantities. are "Popcorn Holder
 
 <br><br>
 
-Question 1.5
-## . Determine the shopping frequency of customers to identify who shops most frequently  on customer level, . Also, find out what products  ‘this customer’ typically buys based on the Quantity of products purchased.
+
+###  Determine the shopping frequency of customers to identify who shops most frequently  on customer level, . Also, find out what products  ‘this customer’ typically buys based on the Quantity of products purchased.
 
 >> The customer with the highest patronage is 12748 with 207 transactions.
 >> The product the customer is spending the most on is Victorian Metal Postcard Spring with a total quantity of 595 units.
