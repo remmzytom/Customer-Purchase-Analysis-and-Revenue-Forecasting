@@ -1,4 +1,4 @@
-# Customer-Purchase-Analysis-and-Revenue-Forecasting [project Link]()
+# Customer-Purchase-Analysis-and-Revenue-Forecasting [project Link](https://github.com/remmzytom/Customer-Purchase-Analysis-and-Revenue-Forecasting/blob/main/customer_analysis_and_revenue_forcasting.ipynb)
 
 ### Pre-requisite Skills: Python, Data Wrangling, Pandas, ARIMA, Data Visualization, Machine Learning Basics, Time Series Analysis
 
@@ -37,12 +37,15 @@ Over the year, the revenue appears to increase. And the increament spikes toward
 Low-Revenue Periods:
 There are notable periods where revenue dips to relatively low levels, suggesting times of reduced sales activity. These dips could be due to factors like reduced consumer spending, or  promotional activities, or some external factors affecting business operations.
 
+<br><br>
 
  ## Determine which workday (day of the week), that generates the most sales.
 
  ![](images/2.png)
  
 Sunday Leads in Revenue: The graph clearly indicates that Sunday generates the most sales on average compared to other days of the week. This pattern suggests that Sunday might be a particularly busy day for the business, due to higher customers, weekend shopping
+
+<br><br>
 
 ## Identify the name of product (column productName_process) that contributes the highest revenue on ‘that workday’  and the name of product that has the highest sales volume (sum of the Quantity), on ‘that workday’.
 
@@ -68,7 +71,7 @@ the top 5 products that were sold in the highest quantities. are "Popcorn Holder
 Question 1.5
 ## . Determine the shopping frequency of customers to identify who shops most frequently  on customer level, . Also, find out what products  ‘this customer’ typically buys based on the Quantity of products purchased.
 
-
+<br><br>
 
 ## exploring the revenue time series.
 ![](images/6.png)
@@ -89,7 +92,7 @@ The is showing the seasonality of the revenue data. This is showing the repeated
 
 This plot represents the residuals or random noise after the trend and seasonal components have been removed. The residual points are scattered around zero, indicating random fluctuations. This indicates that after getting the trend and seasonality, there is still some unexplained variance in the revenue data.
 
-
+<br><br>
 
 ## Conclusion
 ### Achievements of the Project
@@ -114,8 +117,12 @@ This plot represents the residuals or random noise after the trend and seasonal 
 ### Advanced Analytics:
 - Combined machine learning and statistical methods like Apriori and ARIMA to gain valuable insights.
 
+  <br><br>
+
 ## At a Broad Level
 This project shows how data analytics can help businesses improve operations, sales, and customer satisfaction. Using tools like Spark for big data and ARIMA for forecasting gives valuable insights into inventory management, marketing strategies, and personalized recommendations. This project demonstrates how combining different analytics methods can solve real-world business problems effectively.
+
+<br><br>
 
 ## references
 [libraries](https://etda.libraries.psu.edu/catalog/23885rsr5259)
