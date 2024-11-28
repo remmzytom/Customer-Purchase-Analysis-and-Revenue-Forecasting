@@ -28,8 +28,9 @@ The focus of this project is to understand customer buying habits, find frequent
 
 
 
-### Plot the sum of revenue on transaction_date in a line plot and find out any immediate
-pattern / insight?
+### Plot the sum of revenue on transaction_date in a line plot and find out any immediate pattern / insight?
+
+![](images/1.png)
 
 Over the year, the revenue appears to increase. And the increament spikes towards the ending of the year, around September and November are higher than those seen earlier in the year. This trend may indicate a growth in sales volume over time due to holidays and end of the year sale or the impact of cumulative marketing efforts.
 
@@ -38,6 +39,8 @@ There are notable periods where revenue dips to relatively low levels, suggestin
 
 
  ## Determine which workday (day of the week), that generates the most sales.
+
+ ![](images/2.png)
  
 Sunday Leads in Revenue: The graph clearly indicates that Sunday generates the most sales on average compared to other days of the week. This pattern suggests that Sunday might be a particularly busy day for the business, due to higher customers, weekend shopping
 
@@ -48,14 +51,18 @@ Sunday Leads in Revenue: The graph clearly indicates that Sunday generates the m
 
 ##  top 5 products that contribute the highest revenues in general and top 5 products that have the highest sales volumes in general.
 
+![](images/3.png)
+
 #### In terms of revenue from the graph
 the top 5 products that made the most money. "Popcorn Holder" brought in the highest revenue, followed by "World War Gliders Assorted Designs" and "Paper Craft Little Birdie". While all five products earned a lot, "Popcorn Holder" stands out as the biggest earner.
 
+![](images/4.png)
 
 #### In terms of highest sales
 the top 5 products that were sold in the highest quantities. are "Popcorn Holder" sold the most, followed closely by "World War Gliders Assorted Designs" and "Jumbo Bag Red Retrospot". The other two products, "Assorted Colour Bird Ornament" and "Pack Of Retrospot Cake Cases", also had high sales, but not as much as the top three.
 
 ### Which country generates the highest revenue? Additionally, identify the month in that country that has the highest revenue
+![](images/5.png)
 
 
 Question 1.5
@@ -64,6 +71,7 @@ Question 1.5
 
 
 ## exploring the revenue time series.
+![](images/6.png)
 
 ### Revenue Plot:
 
