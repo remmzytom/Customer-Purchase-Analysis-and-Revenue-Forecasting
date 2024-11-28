@@ -27,8 +27,8 @@ The focus of this project is to understand customer buying habits, find frequent
 
 
 <br><br>
-
-### Plot the sum of revenue on transaction_date in a line plot and find out any immediate pattern / insight?
+## Some of the EDA(Exploratory data Analysis)
+### Plotting the sum of revenue anding find out any immediate pattern / insight?
 
 ![](images/1.png)
 
@@ -39,7 +39,7 @@ There are notable periods where revenue dips to relatively low levels, suggestin
 
 <br><br>
 
- ## Determine which workday (day of the week), that generates the most sales.
+ ### Getting the workday (day of the week), that generates the most sales.
 
  ![](images/2.png)
  
@@ -47,13 +47,14 @@ Sunday Leads in Revenue: The graph clearly indicates that Sunday generates the m
 
 <br><br>
 
-## Identify the name of product (column productName_process) that contributes the highest revenue on ‘that workday’  and the name of product that has the highest sales volume (sum of the Quantity), on ‘that workday’.
+### Identifying the name of product that contributes to the highest revenue on ‘that workday’  and the name of product that has the highest sales volume (sum of the Quantity), on ‘that workday’.
+Finding the product with the highest total revenue and the product with the highest total quantity sold on a specific day of the week ("that workday").
 
 >> ![](images/5.png)
 
 <br><br>
 
-##  top 5 products that contribute the highest revenues in general and top 5 products that have the highest sales volumes in general.
+###  top 5 products that contribute the highest revenues in general and top 5 products that have the highest sales volumes in general.
 
 ![](images/3.png)
 
@@ -79,22 +80,22 @@ Question 1.5
 
 <br><br>
 
-## exploring the revenue time series.
+### exploring the revenue time series.
 ![](images/6.png)
 
-### Revenue Plot:
+#### Revenue Plot:
 
 This plot is displaying the observed revenue data over time. This  pattern indicates fluctuations in revenue, with some noticeable spikes at different intervals, which shows that there are some high-revenue days in the monthly cycle.
 
-### Trend plot:
+#### Trend plot:
 
 The trend plot is displaying the trend component of the time series. with this output it shows the overall trend seems to be increasing slightly, with a gradual rise and then a decline towards the end period. This indicates the general direction of revenue over time.
 
-### seasonal plot:
+#### seasonal plot:
 
 The is showing the seasonality of the revenue data. This is showing the repeated patterns at regular intervals, indicating that revenue tends to fluctuate in a predictable manner over time.
 
-### Residual (Noise):
+#### Residual (Noise):
 
 This plot represents the residuals or random noise after the trend and seasonal components have been removed. The residual points are scattered around zero, indicating random fluctuations. This indicates that after getting the trend and seasonality, there is still some unexplained variance in the revenue data.
 
